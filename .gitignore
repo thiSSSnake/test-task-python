@@ -4,4 +4,3 @@ __pycache__/
 .vscode/
 .pytest_cache
 temp/
-db.sqlite3
